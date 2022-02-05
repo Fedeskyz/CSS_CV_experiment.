@@ -259,29 +259,22 @@ margin-top: 2rem;
   }
 
   .btn {
-    background: #27d6d6;
-    background-image: -webkit-linear-gradient(top, #27d6d6, #2c9ba3);
-    background-image: -moz-linear-gradient(top, #27d6d6, #2c9ba3);
-    background-image: -ms-linear-gradient(top, #27d6d6, #2c9ba3);
-    background-image: -o-linear-gradient(top, #27d6d6, #2c9ba3);
-    background-image: linear-gradient(to bottom, #27d6d6, #2c9ba3);
     -webkit-border-radius: 4;
     -moz-border-radius: 4;
     border-radius: 4px;
     font-family: 'Montserrat', sans-serif;
     font-weight: bolder;
     letter-spacing: 2px;
-    border-bottom: solid #1f628d 2px;
     color: #ffffff;
     font-size: 20px;
+    background: #6d9e92;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
   }
   
   .btn:hover {
-    background: #59debd;
+    background: #7febd0;
     text-decoration: none;
-    border-bottom: solid #27b4ad 2px
   }
   
 
