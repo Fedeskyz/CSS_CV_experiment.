@@ -56,7 +56,7 @@ h3 {
   position: absolute;
   right: -3em;
   top: -1.6em;
-  -webkit-animation: fadein 1s;
+  -webkit-animation: fadein .5s;
   opacity: 1;
 }
 
@@ -71,7 +71,7 @@ h3 {
 
 @media screen and (max-width: 800px) {
   #cloud1, #cloud2 {
-   -webkit-animation: fadeout 1s;
+   -webkit-animation: fadeout .5s;
    opacity: 0;
   }
 }
